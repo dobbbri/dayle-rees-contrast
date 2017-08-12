@@ -37,16 +37,6 @@
         "uiTheme": "vs-dark",
         "path": "./themes/iceberg-contrast.json"
       },
-      // {
-      //   "label": "DR - Mellow Contrast.json",
-      //   "uiTheme": "vs-dark",
-      //   "path": "./themes/mellow-contrast.json"
-      // },
-      // {
-      //   "label": "DR - Peacock Contrast",
-      //   "uiTheme": "vs-dark",
-      //   "path": "./themes/peacock-contrast.json"
-      // },
       {
         "label": "DR - Slime Contrast",
         "uiTheme": "vs-dark",
