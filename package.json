@@ -1,0 +1,57 @@
+{
+  "name": "dayle-rees-contrast",
+  "displayName": "dayle-rees-contrast",
+  "description": "Dayle Rees Contrast Themes",
+  "version": "0.0.1",
+  "publisher": "sldobri",
+  "engines": {
+    "vscode": "^1.15.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DR - Freshcut Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/freshcut-contrast.json"
+      },
+      {
+        "label": "DR - Gloom Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gloom-contrast.json"
+      },
+      {
+        "label": "DR - Halflife Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/halflife-contrast.json"
+      },
+      {
+        "label": "DR - Iceberg Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/iceberg-contrast.json"
+      },
+      // {
+      //   "label": "DR - Mellow Contrast.json",
+      //   "uiTheme": "vs-dark",
+      //   "path": "./themes/mellow-contrast.json"
+      // },
+      // {
+      //   "label": "DR - Peacock Contrast",
+      //   "uiTheme": "vs-dark",
+      //   "path": "./themes/peacock-contrast.json"
+      // },
+      {
+        "label": "DR - Slime Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/slime-contrast.json"
+      },
+      {
+        "label": "DR - Tron Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tron-contrast.json"
+      }
+    ]
+  }
+}
