@@ -1,9 +1,14 @@
 {
   "name": "dayle-rees-contrast",
   "displayName": "dayle-rees-contrast",
-  "description": "Dayle Rees Contrast Themes",
+  "description": "Dayle Rees Contrast Colors Themes",
   "version": "0.0.1",
   "publisher": "sldobri",
+  "icon": "logo2.png",
+  "galleryBanner": {
+    "color": "#0b1015",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.15.0"
   },
