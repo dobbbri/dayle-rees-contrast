@@ -121,7 +121,7 @@
       "name": "Keyword",
       "scope": "keyword",
       "settings": {
-        "foreground": "#14344B"
+        "foreground": "#748aa6"
       }
     },
     {
@@ -363,7 +363,7 @@
       "name": "Markdown Title Hash",
       "scope": "punctuation.definition.heading.markdown",
       "settings": {
-        "foreground": "#14344B"
+        "foreground": "#748aa6"
       }
     },
     {
@@ -377,21 +377,21 @@
       "name": "Markdown bold stars",
       "scope": "punctuation.definition.bold.markdown, punctuation.definition.italic.markdown",
       "settings": {
-        "foreground": "#14344B"
+        "foreground": "#748aa6"
       }
     },
     {
       "name": "Markdown link title braces",
       "scope": "punctuation.definition.string.begin.markdown, punctuation.definition.string.end.markdown",
       "settings": {
-        "foreground": "#14344B"
+        "foreground": "#748aa6"
       }
     },
     {
       "name": "Markdown link braces",
       "scope": "punctuation.definition.metadata.markdown",
       "settings": {
-        "foreground": "#14344B"
+        "foreground": "#748aa6"
       }
     },
     {
