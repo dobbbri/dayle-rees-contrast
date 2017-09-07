@@ -45,7 +45,7 @@
     "tab.activeForeground": "#c7af3f",
     "tab.inactiveForeground": "#97a7c8ff",
     "tab.unfocusedActiveBorder": "#97a7c8ff",
-    "tab.activeForeground": "#c7af3f",
+    "tab.activeBorder": "#c7af3f",
     "progressBar.background": "#c7af3f",
     "editorGroup.background": "#0b1015",
     "editorGroupHeader.tabsBackground": "#0b1015",
