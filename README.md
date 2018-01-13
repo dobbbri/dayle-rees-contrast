@@ -1,16 +1,42 @@
-# DR - Dayle Rees Contrast Colors ThemesDaily Themes
-## 6 beautiful dark themes
+# DR - Dayle Rees Contrast Colors with clean UI and dark BG
 
-- DR - Freshcut Contrast
-- DR - Gloom Contrast
-- DR - Halflife Contrast
-- DR - Iceberg Contrast
-- DR - Slime Contrast
-- DR - Tron Contrast
+## 16 beautiful dark themes (10 new themes)
 
-## Background hacks
+* DR - Banner Contrast
+* DR - Freshcut Contrast
+* DR - Gloom Contrast
+* DR - Halflife Contrast
+* DR - Iceberg Contrast
+* DR - Jewel Contrast
+* DR - Loyal Contrast
+* DR - Peacocks In Space Contrast
+* DR - Peel Contrast
+* DR - Rainbow Contrast
+* DR - Service Contrast
+* DR - Slime Contrast
+* DR - Stasis Contrast
+* DR - Storm Contrast
+* DR - Tetra Contrast
+* DR - Tron Contrast"
 
-### add this your ***User Settings*** (settings.json)
+### I use this border hacks, if you like, use!!!
+
+```
+  "workbench.colorCustomizations": {
+    "titleBar.border": "#000",
+    "sideBar.border": "#000",
+    "activityBar.border": "#000",
+    "tab.border": "#000",
+    "editorGroupHeader.tabsBorder": "#000",
+    "panel.border": "#000",
+    "statusBar.border": "#000"
+  },
+```
+
+### Background hacks, if you like!!!
+
+#### add this your **_User Settings_** (settings.json)
+
 ```
   "workbench.colorCustomizations": {
     "titleBar.border": "#05080A",
@@ -27,7 +53,7 @@
     "panel.border": "#05080A",
     "statusBar.border": "#05080A"
   },
-  ```
+```
 
 Screenshots coming soon
 
