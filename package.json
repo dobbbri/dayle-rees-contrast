@@ -12,12 +12,9 @@
   "engines": {
     "vscode": "^1.15.0"
   },
-  "categories": [
-    "Themes"
-  ],
+  "categories": ["Themes"],
   "contributes": {
-    "themes": [
-      {
+    "themes": [{
         "label": "DR - Freshcut Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/freshcut-contrast.json"
@@ -46,6 +43,56 @@
         "label": "DR - Tron Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/tron-contrast.json"
+      },
+      {
+        "label": "DR - Banner Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/banner-contrast.json"
+      },
+      {
+        "label": "DR - Jewel Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jewel-contrast.json"
+      },
+      {
+        "label": "DR - Loyal Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/loyal-contrast.json"
+      },
+      {
+        "label": "DR - Peacocks In Space Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/peacocks-in-space-contrast.json"
+      },
+      {
+        "label": "DR - Peel Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/peel-contrast.json"
+      },
+      {
+        "label": "DR - Rainbow Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rainbow-contrast.json"
+      },
+      {
+        "label": "DR - Service Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/service-contrast.json"
+      },
+      {
+        "label": "DR - Stasis Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/stasis-contrast.json"
+      },
+      {
+        "label": "DR - Storm Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/storm-contrast.json"
+      },
+      {
+        "label": "DR - Tetra Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tetra-contrast.json"
       }
     ]
   }
