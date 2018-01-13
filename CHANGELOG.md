@@ -1,3 +1,7 @@
+### Version 1.1.4
+- fix readme
+- fix text
+
 ≤### Version 1.1.3
 
 * new themes
