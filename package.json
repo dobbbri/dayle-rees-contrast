@@ -1,7 +1,7 @@
 {
   "name": "dayle-rees-contrast",
   "displayName": "Dayle Rees Themes",
-  "description": "Dayle Rees Contrast Colors Themes",
+  "description": "Dayle Rees Contrast Themes whit Clean UI and dark BG",
   "version": "1.1.3",
   "publisher": "sldobri",
   "icon": "logo.png",
@@ -14,7 +14,8 @@
   },
   "categories": ["Themes"],
   "contributes": {
-    "themes": [{
+    "themes": [
+      {
         "label": "DR - Freshcut Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/freshcut-contrast.json"
