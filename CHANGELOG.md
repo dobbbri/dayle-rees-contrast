@@ -1,3 +1,6 @@
+### Version 1.1.3
+- new themes
+
 ### Version 1.1.2
 - fix shadow and add border top terminal
 
