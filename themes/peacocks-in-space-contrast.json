@@ -117,7 +117,10 @@
     },
     {
       "name": "User-defined constant",
-      "scope": ["constant.character", "constant.other"],
+      "scope": [
+        "constant.character",
+        "constant.other"
+      ],
       "settings": {
         "foreground": "#ff5d38"
       }
@@ -177,6 +180,13 @@
       }
     },
     {
+      "name": "CSS Class",
+      "scope": "entity.other.attribute-name.class",
+      "settings": {
+        "foreground": "#bcd42a"
+      }
+    },
+    {
       "name": "Function argument",
       "scope": "variable.parameter",
       "settings": {
@@ -218,7 +228,10 @@
     },
     {
       "name": "Library class/type",
-      "scope": ["support.type", "support.class"],
+      "scope": [
+        "support.type",
+        "support.class"
+      ],
       "settings": {
         "fontStyle": "",
         "foreground": "#ff5d38"
@@ -257,7 +270,10 @@
     },
     {
       "name": "diff.header",
-      "scope": ["meta.diff", "meta.diff.header"],
+      "scope": [
+        "meta.diff",
+        "meta.diff.header"
+      ],
       "settings": {
         "foreground": "#6e7a94"
       }
@@ -441,7 +457,10 @@
     },
     {
       "name": "Markdown bold/italic",
-      "scope": ["markup.bold.markdown", "markup.italic.markdown"],
+      "scope": [
+        "markup.bold.markdown",
+        "markup.italic.markdown"
+      ],
       "settings": {
         "foreground": "#26a6a6"
       }

@@ -117,7 +117,10 @@
     },
     {
       "name": "User-defined constant",
-      "scope": ["constant.character", "constant.other"],
+      "scope": [
+        "constant.character",
+        "constant.other"
+      ],
       "settings": {
         "foreground": "#ef746f"
       }
@@ -177,6 +180,13 @@
       }
     },
     {
+      "name": "CSS Class",
+      "scope": "entity.other.attribute-name.class",
+      "settings": {
+        "foreground": "#ffbe40"
+      }
+    },
+    {
       "name": "Function argument",
       "scope": "variable.parameter",
       "settings": {
@@ -218,7 +228,10 @@
     },
     {
       "name": "Library class/type",
-      "scope": ["support.type", "support.class"],
+      "scope": [
+        "support.type",
+        "support.class"
+      ],
       "settings": {
         "fontStyle": "",
         "foreground": "#ef746f"
@@ -257,7 +270,10 @@
     },
     {
       "name": "diff.header",
-      "scope": ["meta.diff", "meta.diff.header"],
+      "scope": [
+        "meta.diff",
+        "meta.diff.header"
+      ],
       "settings": {
         "foreground": "#424c55"
       }
@@ -441,7 +457,10 @@
     },
     {
       "name": "Markdown bold/italic",
-      "scope": ["markup.bold.markdown", "markup.italic.markdown"],
+      "scope": [
+        "markup.bold.markdown",
+        "markup.italic.markdown"
+      ],
       "settings": {
         "foreground": "#b3cc57"
       }

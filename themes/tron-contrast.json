@@ -36,6 +36,7 @@
     "editorCursor.foreground": "#267fb5",
     "editorWhitespace.foreground": "#18222Dff",
     "editorIndentGuide.background": "#18222Dff",
+    "editorIndentGuide.activeBackground": "#18222D",
     "editorRuler.foreground": "#18222Dff",
     "tab.activeBackground": "#0b1015",
     "tab.inactiveBackground": "#0b1015",
@@ -302,8 +303,7 @@
       }
     },
     {
-      "scope":
-        "meta.property-value, support.constant.property-value, constant.other.color",
+      "scope": "meta.property-value, support.constant.property-value, constant.other.color",
       "settings": {
         "foreground": "#6ee2ff"
       }
@@ -336,16 +336,14 @@
     },
     {
       "name": "Function argument",
-      "scope":
-        "keyword.other.use, keyword.other.function.use, keyword.other.namespace, keyword.other.new, keyword.other.special-method, keyword.other.unit, keyword.other.use-as",
+      "scope": "keyword.other.use, keyword.other.function.use, keyword.other.namespace, keyword.other.new, keyword.other.special-method, keyword.other.unit, keyword.other.use-as",
       "settings": {
         "foreground": "#267fb5"
       }
     },
     {
       "name": "Function argument",
-      "scope":
-        "meta.use support.class.builtin, meta.other.inherited-class support.class.builtin",
+      "scope": "meta.use support.class.builtin, meta.other.inherited-class support.class.builtin",
       "settings": {
         "foreground": "#aec2e0",
         "fontStyle": "normal"
@@ -390,16 +388,14 @@
     },
     {
       "name": "Markdown bold stars",
-      "scope":
-        "punctuation.definition.bold.markdown, punctuation.definition.italic.markdown",
+      "scope": "punctuation.definition.bold.markdown, punctuation.definition.italic.markdown",
       "settings": {
         "foreground": "#748aa6"
       }
     },
     {
       "name": "Markdown link title braces",
-      "scope":
-        "punctuation.definition.string.begin.markdown, punctuation.definition.string.end.markdown",
+      "scope": "punctuation.definition.string.begin.markdown, punctuation.definition.string.end.markdown",
       "settings": {
         "foreground": "#748aa6"
       }
@@ -413,8 +409,7 @@
     },
     {
       "name": "Markdown link",
-      "scope":
-        "markup.underline.link.markdown, markup.underline.link.image.markdown, meta.image.inline.markdown",
+      "scope": "markup.underline.link.markdown, markup.underline.link.image.markdown, meta.image.inline.markdown",
       "settings": {
         "foreground": "#267fb5",
         "fontStyle": "italic"
@@ -471,7 +466,7 @@
     },
     {
       "name": "CSS Class",
-      "scope": "entity.other.attribute-name.class.css",
+      "scope": "entity.other.attribute-name.class",
       "settings": {
         "foreground": "#ffffff"
       }

@@ -302,8 +302,7 @@
       }
     },
     {
-      "scope":
-        "meta.property-value, support.constant.property-value, constant.other.color",
+      "scope": "meta.property-value, support.constant.property-value, constant.other.color",
       "settings": {
         "foreground": "#FAFFDB"
       }
@@ -336,16 +335,14 @@
     },
     {
       "name": "Function argument",
-      "scope":
-        "keyword.other.use, keyword.other.function.use, keyword.other.namespace, keyword.other.new, keyword.other.special-method, keyword.other.unit, keyword.other.use-as",
+      "scope": "keyword.other.use, keyword.other.function.use, keyword.other.namespace, keyword.other.new, keyword.other.special-method, keyword.other.unit, keyword.other.use-as",
       "settings": {
         "foreground": "#d8e778"
       }
     },
     {
       "name": "Function argument",
-      "scope":
-        "meta.use support.class.builtin, meta.other.inherited-class support.class.builtin",
+      "scope": "meta.use support.class.builtin, meta.other.inherited-class support.class.builtin",
       "settings": {
         "foreground": "#FFFFFF",
         "fontStyle": "normal"
@@ -390,16 +387,14 @@
     },
     {
       "name": "Markdown bold stars",
-      "scope":
-        "punctuation.definition.bold.markdown, punctuation.definition.italic.markdown",
+      "scope": "punctuation.definition.bold.markdown, punctuation.definition.italic.markdown",
       "settings": {
         "foreground": "#689dc5"
       }
     },
     {
       "name": "Markdown link title braces",
-      "scope":
-        "punctuation.definition.string.begin.markdown, punctuation.definition.string.end.markdown",
+      "scope": "punctuation.definition.string.begin.markdown, punctuation.definition.string.end.markdown",
       "settings": {
         "foreground": "#689dc5"
       }
@@ -413,8 +408,7 @@
     },
     {
       "name": "Markdown link",
-      "scope":
-        "markup.underline.link.markdown, markup.underline.link.image.markdown, meta.image.inline.markdown",
+      "scope": "markup.underline.link.markdown, markup.underline.link.image.markdown, meta.image.inline.markdown",
       "settings": {
         "foreground": "#d8e778",
         "fontStyle": "italic"
@@ -471,7 +465,7 @@
     },
     {
       "name": "CSS Class",
-      "scope": "entity.other.attribute-name.class.css",
+      "scope": "entity.other.attribute-name.class",
       "settings": {
         "foreground": "#d0b123"
       }

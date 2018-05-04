@@ -36,6 +36,7 @@
     "editorCursor.foreground": "#148b97",
     "editorWhitespace.foreground": "#18222Dff",
     "editorIndentGuide.background": "#18222Dff",
+    "editorIndentGuide.activeBackground": "#18222D",
     "editorRuler.foreground": "#18222Dff",
     "tab.activeBackground": "#0b1015",
     "tab.inactiveBackground": "#0b1015",
@@ -117,7 +118,10 @@
     },
     {
       "name": "User-defined constant",
-      "scope": ["constant.character", "constant.other"],
+      "scope": [
+        "constant.character",
+        "constant.other"
+      ],
       "settings": {
         "foreground": "#fdce7f"
       }
@@ -177,6 +181,13 @@
       }
     },
     {
+      "name": "CSS Class",
+      "scope": "entity.other.attribute-name.class",
+      "settings": {
+        "foreground": "#e8744a"
+      }
+    },
+    {
       "name": "Function argument",
       "scope": "variable.parameter",
       "settings": {
@@ -218,7 +229,10 @@
     },
     {
       "name": "Library class/type",
-      "scope": ["support.type", "support.class"],
+      "scope": [
+        "support.type",
+        "support.class"
+      ],
       "settings": {
         "fontStyle": "",
         "foreground": "#fdce7f"
@@ -257,7 +271,10 @@
     },
     {
       "name": "diff.header",
-      "scope": ["meta.diff", "meta.diff.header"],
+      "scope": [
+        "meta.diff",
+        "meta.diff.header"
+      ],
       "settings": {
         "foreground": "#3b5f68"
       }
@@ -441,7 +458,10 @@
     },
     {
       "name": "Markdown bold/italic",
-      "scope": ["markup.bold.markdown", "markup.italic.markdown"],
+      "scope": [
+        "markup.bold.markdown",
+        "markup.italic.markdown"
+      ],
       "settings": {
         "foreground": "#148b97"
       }
