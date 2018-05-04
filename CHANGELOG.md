@@ -1,3 +1,7 @@
+### Version 1.1.5
+- add  css classname color
+- add "editorIndentGuide.activeBackground"
+
 ### Version 1.1.4
 - fix readme
 - fix text

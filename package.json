@@ -2,7 +2,7 @@
   "name": "dayle-rees-contrast",
   "displayName": "Dayle Rees Themes",
   "description": "Dayle Rees Contrast Themes whit Clean UI and dark BG",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "publisher": "sldobri",
   "icon": "logo.png",
   "galleryBanner": {
@@ -12,86 +12,88 @@
   "engines": {
     "vscode": "^1.15.0"
   },
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
-        "label": "DR - Freshcut Contrast",
+        "label": "Ð - Freshcut Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/freshcut-contrast.json"
       },
       {
-        "label": "DR - Gloom Contrast",
+        "label": "Ð - Gloom Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/gloom-contrast.json"
       },
       {
-        "label": "DR - Halflife Contrast",
+        "label": "Ð - Halflife Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/halflife-contrast.json"
       },
       {
-        "label": "DR - Iceberg Contrast",
+        "label": "Ð - Iceberg Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/iceberg-contrast.json"
       },
       {
-        "label": "DR - Slime Contrast",
+        "label": "Ð - Slime Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/slime-contrast.json"
       },
       {
-        "label": "DR - Tron Contrast",
+        "label": "Ð - Tron Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/tron-contrast.json"
       },
       {
-        "label": "DR - Banner Contrast",
+        "label": "Ð - Banner Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/banner-contrast.json"
       },
       {
-        "label": "DR - Jewel Contrast",
+        "label": "Ð - Jewel Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/jewel-contrast.json"
       },
       {
-        "label": "DR - Loyal Contrast",
+        "label": "Ð - Loyal Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/loyal-contrast.json"
       },
       {
-        "label": "DR - Peacocks In Space Contrast",
+        "label": "Ð - Peacocks In Space Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/peacocks-in-space-contrast.json"
       },
       {
-        "label": "DR - Peel Contrast",
+        "label": "Ð - Peel Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/peel-contrast.json"
       },
       {
-        "label": "DR - Rainbow Contrast",
+        "label": "Ð - Rainbow Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/rainbow-contrast.json"
       },
       {
-        "label": "DR - Service Contrast",
+        "label": "Ð - Service Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/service-contrast.json"
       },
       {
-        "label": "DR - Stasis Contrast",
+        "label": "Ð - Stasis Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/stasis-contrast.json"
       },
       {
-        "label": "DR - Storm Contrast",
+        "label": "Ð - Storm Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/storm-contrast.json"
       },
       {
-        "label": "DR - Tetra Contrast",
+        "label": "Ð - Tetra Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/tetra-contrast.json"
       }
